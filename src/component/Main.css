@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Londrina+Shadow|Press+Start+2P&display=swap');
+.global-font-kor {
+    font-family: 'Gamja Flower', cursive;
+}
+
+.global-font-eng {
+    font-family: 'Londrina Shadow', cursive;
+}
+
+.global-container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 1;
+}
+
+.global-title {
+    
+}

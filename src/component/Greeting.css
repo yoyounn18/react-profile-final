@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Londrina+Shadow|Press+Start+2P&display=swap');
+
+.greeting-title {
+    font-size: 3.5rem;
+    height: 8vh;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Gamja Flower', cursive;
+    border-right: 1px solid black;
+
+}
+ 
+.greeting-cursor {
+    height: 8vh;
+}
+.cursor-effect {
+    border-right: 1px solid black;
+}

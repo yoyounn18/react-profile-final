@@ -1,0 +1,51 @@
+.techstack-container {
+    width: 75%;
+    height: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.tech-row {
+    width: 100%;
+    height: 20%;
+    display: flex;
+}
+
+.tech-column {
+    width: 18vw;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Londrina Shadow', cursive;
+    font-size: 3rem;
+    margin: 3%;
+}
+
+.tech-column:hover {
+    cursor: pointer;
+    font-size: 3.5rem;
+    -webkit-transition: background-color 2s ease-out;
+    transition: font-size 1s ease-out;
+}
+
+.render-div {
+    font-family: 'Gamja Flower', cursive;
+    width: 20vw;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 4rem;
+    margin: 3%;
+}
+
+.hover-enter{
+    color: black;
+}
+
+.hover-out {
+    color: white;
+}

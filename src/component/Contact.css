@@ -1,0 +1,9 @@
+.contact-container{
+    width: 100%;
+    height: 10vh;
+    font-size: 3.5rem;
+}
+
+.contact-container:hover{
+    font-size: 4.5rem;
+}
